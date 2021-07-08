@@ -39,7 +39,7 @@ const checkDatabase = _ => {
           store.clear()
         })
     }
-  }
+  }+-
 }
 
 window.addEventListener('online', checkDatabase)
